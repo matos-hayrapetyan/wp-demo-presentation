@@ -1,0 +1,9 @@
+.demo-presentation-head {
+    display: flex;
+    justify-content: center;
+}
+
+.demo-presentation-button {
+    width:40px;
+    height:40px;
+}
